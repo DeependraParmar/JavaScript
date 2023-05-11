@@ -1,6 +1,6 @@
-# 🚀 JavaScript Repository: Building Powerful Websites and Web Apps 🌐
+# 🚀 JavaScript: Building Powerful Websites and Web Apps 🌐
 
-[![JavaScript Logo](https://your-website.com/path/to/logo.png)](https://your-website.com/)
+<a href="https://www.github.com/DeependraParmar" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 Welcome to the JavaScript repository! Here you will find a curated collection of high-quality JavaScript code snippets, ready to be used in building powerful websites and web applications. 💪🖥️
 
@@ -66,4 +66,13 @@ Contributions are always welcome to enhance the repository and make it even more
 2. Create a new branch:
    ```bash
    git checkout -b feature/add-new-snippet
+3. Add your code snippet to the appropriate category or create a new category if needed.
+4. Commit your changes:
+   ```bash
+   git commit -m "Add new JavaScript code snippet: <Snippet Title>"
+5. Push to the Branch:
+   ```bash
+   git push origin feature/add-new-snippet
+6. Open a pull request, and describe your code snippet in detail.
 
+### Thank you for your contribution! 🙌
