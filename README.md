@@ -31,7 +31,7 @@ To use the code snippets in this repository, you can follow these simple install
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/javascript.git
+   git clone https://github.com/DeependraParmar/JavaScript.git
 Navigate to the repository's directory:
 
 bash
